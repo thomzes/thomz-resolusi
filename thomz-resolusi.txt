@@ -1,0 +1,3 @@
+THOMZ RESOLUSI
+- Konsisten ngoding
+- Membuat porto laravel
