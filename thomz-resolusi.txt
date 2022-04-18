@@ -1,4 +1,4 @@
 THOMZ RESOLUSI
 - Konsisten ngoding
 - Membuat porto laravel
-- Belajar Vue JS
+- Membuat blog
