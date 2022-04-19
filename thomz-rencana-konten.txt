@@ -3,5 +3,6 @@ RENCANA KONTEN THOMZ
 - Javascript
   *ES6
   *Framework Javascript
+- Struktur Data Dasar
 - Interview
 - Magang
