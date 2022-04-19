@@ -3,6 +3,8 @@ RENCANA KONTEN THOMZ
 - Javascript
   *ES6
   *Framework Javascript
+   ^ Vue
 - Struktur Data Dasar
 - Interview
 - Magang
+- Python
